@@ -4,7 +4,7 @@ Created on Tue Apr 11 09:08:30 2017
 
 @author: s2286066
 """
-#this is my forth revison,while for the course it counted as the third
+#this is my forth revison, the same as revison as at Lynda, while for me it is the second forth revision
 import sklearn 
 import sys
 from class_vis import prettyPicture
