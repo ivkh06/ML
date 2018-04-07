@@ -278,6 +278,9 @@ def acuracy_test():
 
 #   Adaboost
 # The five boxing wizards jump quickly.
+# this is a new attempt to write changes in the file to have it ready for stagind environment.
+
+# it is revision three  to be overwriten by returning file from the staging environment.
 
 
 
